@@ -4,8 +4,8 @@ title: Experiments
 description: experiments
 ---
 
-* [Experiment 1](#Experiment-1)
-* [Experiment 2](#Experiment-2)
+* [Experiment 1](#experiment-1)
+* [Experiment 2](#experiment-2)
 
 # Experiment 1
 XXX  
