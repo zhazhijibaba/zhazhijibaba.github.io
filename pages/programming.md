@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Overview of GitHub Pages
-description: Overview of construction of a website with GitHub Pages
+title: Programming Lessons
+description: programming turtorials for beginners
 ---
 
-The present site is simple, with a style derived from
+* lesson 1
+* lesson 2
+
