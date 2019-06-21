@@ -13,7 +13,9 @@ description: programming turtorials for beginners
 五角星的每个角是36度，所以在每个角处，海龟要转向180-36=144度。不全下面的程序，画出一个完整的五角星。点击下面对话框顶端的:arrow_forward:按钮进行测试。手机用户点击:pencil:对程序进行修改。
 <iframe src="https://trinket.io/embed/python/07502a1185" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-<iframe src="https://trinket.io/embed/python/d1685291dc" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+### 问题 3
+画一棵树
+<iframe src="https://trinket.io/embed/python/f07bd75091" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
   
 #### [Go back to lesson list](programming.html)
