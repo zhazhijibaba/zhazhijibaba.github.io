@@ -27,6 +27,7 @@ description: programming turtorials for beginners
 <iframe src="https://trinket.io/embed/python/7b3a5900ce" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
   
 ### 问题 3
+函数就是一个可以重复利用的工具。把一些可以重复利用的东西放在一起，一起使用。
 请补全下面的程序中的“def initial():”函数，让海龟爬到屏幕的下方中央的位置。  
 先向左转90度：left(90)，然后后退100：backward(100)。  
 点击下面对话框顶端的:arrow_forward:按钮进行测试。  
@@ -37,4 +38,23 @@ description: programming turtorials for beginners
 请点击下面对话框顶端的:arrow_forward:按钮进看答案。
 <iframe src="https://trinket.io/embed/python/1480402d5b" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
   
+### 问题 4
+补全下面画树函数“def drawTree():”，画一个Y字形的树杈。
+  
+#### 问题 4 答案
+请点击下面对话框顶端的:arrow_forward:按钮进看答案。
+<iframe src="https://trinket.io/embed/python/7be668702c" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+### 问题 5
+补全下面画树函数“def drawTree():”，画一个5级树杈的树。
+  
+#### 问题 5 答案
+请点击下面对话框顶端的:arrow_forward:按钮进看答案。
+
+### 问题 6
+调整参数，树枝的角度，树干的长度，树枝的级数，画出不同类型的树。
+请点击下面对话框顶端的:arrow_forward:按钮进看答案。
+<iframe src="https://trinket.io/embed/python/11c78675fd" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+
 #### [Go back to lesson list](programming.html)
