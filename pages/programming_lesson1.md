@@ -6,7 +6,8 @@ description: programming turtorials for beginners
 
 ### 问题 1
 首先给大家一个具体例子。下面这个例子会画出一个直角。
-···python
+
+```python
 # coding=utf-8
 # 窃取前人成果，站在巨人的肩膀上
 # 首先装备上现成的画图工具turtle海龟
