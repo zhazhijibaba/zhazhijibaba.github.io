@@ -29,8 +29,7 @@ description: programming turtorials for beginners
 ### 问题 3
 函数就是把一些可以重复利用的东西放在一起，并一起使用。  
 函数可以重复利用。用了函数，就不用每次都重复写相同的东西了。  
-在下面的程序中，找到“def initial():", 并补全“initial()”函数，让海龟爬到屏幕的下方中央的位置。  
-先向左转90度：加入代码”left(90)“。然后后退100：加入代码”backward(100)“。  
+在下面的程序中，找到“def initial():", 并补全“initial()”函数，让海龟爬到屏幕的下方中央的位置。    
 需要补全的部分是：
 ```python
     # 向左转90度
@@ -38,6 +37,7 @@ description: programming turtorials for beginners
     # 向后退100个像素
     
 ```
+在空白处，先加入代码”left(90)“向左转90度。然后加入代码”backward(100)“后退100。  
 点击下面对话框顶端的:arrow_forward:按钮进行测试。  
 手机用户请点击:pencil:对程序进行修改。
 <iframe src="https://trinket.io/embed/python/0c7966eece" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
@@ -63,14 +63,35 @@ description: programming turtorials for beginners
 <iframe src="https://trinket.io/embed/python/7be668702c" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ### 问题 5
-在下面的程序中，找到“def drawTree():", 并补全“drawTree()”函数，画一个5级树杈的树。
+在下面的程序中，找到“def drawTree():", 并补全“drawTree()”函数，画一个5级树杈的树。  
+需要补全的部分是：
+```python
+    # 再画右边的下一层的树枝
+    
+```
+在空白处，先加入代码”right(40)“向右转40度。再加入代码”drawTree(level - 1)”画下一层树枝。
+<iframe src="https://trinket.io/embed/python/5ea3a3bbb1" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
   
 #### 问题 5 答案
 请点击下面对话框顶端的:arrow_forward:按钮进看答案。
 <iframe src="https://trinket.io/embed/python/3016dbd1b3" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ### 问题 6
-修改下面代码的参数，画出不同类型的树。参数包括：树枝的角度，树干的长度，树枝的级数等。
+修改下面代码的参数，画出不同类型的树。参数包括：树枝的角度，树干的长度，树枝的级数等。  
+需要修改的部分是：
+```python
+# 树干的层数
+level = 5
+# 树干的长度
+length = 15
+# 每层树干的长度比例
+ratio = 0.8
+# 左侧树枝的角度
+theta1 = 20
+# 右侧树枝的角度
+theta2 = 20
+```
+请修改level, length, ratio, theta1, theta2的数值。
 请点击下面对话框顶端的:arrow_forward:按钮进看答案。
 <iframe src="https://trinket.io/embed/python/11c78675fd" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
