@@ -11,9 +11,9 @@ description: programming turtorials for beginners
 以上这个程序一共有11行代码。  
 其中以井字符号”#“开头的行（第1、2、3、6、8、10行），是榨汁机的评论，并不是程序的有效代码，计算机并不会执行，所以不起任何作用。  
 有效代码只有4行  
-第4行是引入画图工具turtle, 第7行是让海龟向前走100个像素，第9行是让海龟向左转90度，第11行是让海龟再向前走100个像素  
+第4行是引入画图工具turtle，画画的箭头就是海龟, 第7行是让海龟向前走100个像素，第9行是让海龟向左转90度，第11行是让海龟再向前走100个像素  
 你的挑战是，给这个程序加上几行代码，重复画直角的过程数次，画出一个正方形。  
-注意，你加入的代码要从12行开始写起。手机用户请点击:pencil:对程序进行修改。  
+注意，你加入的代码要从12行开始写起，每行代码的左端要和前后行对齐。手机用户请点击:pencil:对程序进行修改。  
 
 #### 挑战 1 答案
 以下是挑战1的答案，请点击下面对话框顶端的:arrow_forward:按钮查看运行结果。
@@ -24,30 +24,26 @@ description: programming turtorials for beginners
 <iframe src="https://trinket.io/embed/python/2ff1835bab" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 你的挑战是，请补全上面的程序，画出一个完整的五角星。  
 提示，五角星的每个角是36度，所以在每个角处，海龟要转向180-36=144度。  
-注意，你加入的代码要从14行开始写起。手机用户请点击:pencil:对程序进行修改。点击上面对话框顶端的:arrow_forward:按钮进行测试。 
+注意，你加入的代码要从14行开始写起。每行代码的左端要和前后行对齐。手机用户请点击:pencil:对程序进行修改。点击上面对话框顶端的:arrow_forward:按钮进行测试。 
   
 #### 挑战 2 答案
 以下是挑战2的答案，请点击下面对话框顶端的:arrow_forward:按钮查看运行结果。
 <iframe src="https://trinket.io/embed/python/7b3a5900ce" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
   
 ### 挑战 3 让海龟爬到指定位置
-函数就是把一些可以重复利用的东西放在一起，并一起使用。  
-函数可以重复利用。用了函数，就不用每次都重复写相同的东西了。  
-在下面的程序中，找到“def initial():", 并补全“initial()”函数，让海龟爬到屏幕的下方中央的位置。    
-需要补全的部分是：
-```python
-    # 向左转90度
-    
-    # 向后退100个像素
-    
-```
-在空白处，先加入代码”left(90)“向左转90度。然后加入代码”backward(100)“后退100。  
+我们可以把一些可以重复利用的并屡试不爽的代码放在一起，我们称这段代码为一个“套路”。  
+例如下面程序中，第9行到第17行，就是一个套路，我们用“def initial()”表示我们要创造一个名字叫“initial"的新套路（第9行）。然后把套路的具体过程放在其下方，并且套路里面的代码（第10行到第17行）的左端要比套路定义行（第9行）往右平移一段距离，以区分套路以外的代码。  
 点击下面对话框顶端的:arrow_forward:按钮进行测试。  
 手机用户请点击:pencil:对程序进行修改。
 <iframe src="https://trinket.io/embed/python/0c7966eece" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+套路”initial"（第9行到第17行），是让海龟爬到屏幕的下方中央的位置。  
+
+需要补全的部分是：
+在空白处，先加入代码”left(90)“向左转90度。然后加入代码”backward(100)“后退100。
+注意，手机用户请点击:pencil:对程序进行修改。点击上面对话框顶端的:arrow_forward:按钮进行测试。 
   
 #### 挑战 3 答案
-请点击下面对话框顶端的:arrow_forward:按钮进看答案。
+以下是挑战3的答案，请点击下面对话框顶端的:arrow_forward:按钮查看运行结果。
 <iframe src="https://trinket.io/embed/python/1480402d5b" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
   
 ### 挑战 4 画一个Y字形的树杈
