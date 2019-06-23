@@ -24,7 +24,7 @@ description: programming turtorials for beginners
 既然我们学会了画正方形，那么我们可不可以调整折线的角度，来画一个完美的五角星呢？  
 <iframe src="https://trinket.io/embed/python/2ff1835bab" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 **你的挑战是，给这个程序加上几行代码：重复11行和13行数次，画出一个完整的五角星。**  
-提示，五角星的每个角是36度，所以在每个角处，因此，海龟要转向180-36=144度。  
+海龟向左转144度是因为，五角星的每个角是36度，所以在每个角处，因此，海龟要转向180-36=144度。  
 **注意，你加入的代码要从14行开始写起。每行代码的左端要和前后行对齐。**  
 手机用户请点击:pencil:对程序进行修改。点击上面对话框顶端的:arrow_forward:按钮进行测试。 
   
