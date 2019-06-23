@@ -80,4 +80,6 @@ description: programming turtorials for beginners
 比如，level可以从5改为6或者7， ratio值可以从1.0改成0.8或1.1， theta1和theta2的值可以从20和20改成10和60或40和40，等等。
 注意，手机用户请点击:pencil:对程序进行修改。点击上面对话框顶端的:arrow_forward:按钮进行测试。  
 
+[查看下载所有python源代码](https://github.com/zhazhijibaba/zhazhijibaba_programming_lessons/tree/master/programming_lesson1)
+
 #### [Go back to lesson list](programming.html)
