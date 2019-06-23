@@ -74,7 +74,7 @@ description: programming turtorials for beginners
 ### 挑战 6 设计一颗自己的树
 挑战5中，我们成功的画出了，有5层树杈的更复杂的树。为了画出更多变化的树，我们在程序中加了更多的变量，包括：树枝的级数，树枝的角度，树干的长度等。  
 我们修改下面程序中的第47行到第55行，就可以设定树的各种变量，从而画出各种不同的树。  
-<iframe src="https://trinket.io/embed/python/ec9649500d" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/bdc74ba293" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 **你的挑战是，修改变量设定（第47行到第55行），画出一个你最喜欢的树。**  
 **你要做的是，修改level, ratio, theta1, theta2，length的数值。**  
 比如，level可以从5改为6或者7， ratio值可以从1.0改成0.8或1.1， theta1和theta2的值可以从20和20改成10和60或40和40，等等。
