@@ -5,26 +5,29 @@ description: programming turtorials for beginners
 ---
 
 ### 挑战 1 画一个正方形
-首先给大家一个具体例子。下面这个例子会画出一个直角。  
-点击下面对话框顶端的:arrow_forward:按钮，程序会自动画出一个直角。  
-你能不能接着给这个程序加上几行代码,重复画直角的过程数次，从而画出一个正方形呢？  
-注意，从12行开始写起
-手机用户请点击:pencil:对程序进行修改。  
-<iframe src="https://trinket.io/embed/python/d1cfffd1f8" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-  
+首先给大家一个具体例子。下面这个程序会画出一个直角。  
+点击下面对话框顶端的:arrow_forward:按钮，程序会在电脑屏幕上自动画出一个直角。    
+<iframe src="https://trinket.io/embed/python/136dee2cf8" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+以上这个程序一共有11行代码。  
+其中以井字符号”#“开头的行（第1、2、3、6、8、10行），是榨汁机的评论，并不是程序的有效代码，计算机并不会执行，所以不起任何作用。  
+有效代码只有4行  
+第4行是引入画图工具turtle, 第7行是让海龟向前走100个像素，第9行是让海龟向左转90度，第11行是让海龟再向前走100个像素  
+你的挑战是，给这个程序加上几行代码，重复画直角的过程数次，画出一个正方形。  
+注意，你加入的代码要从12行开始写起。手机用户请点击:pencil:对程序进行修改。  
+
 #### 挑战 1 答案
-请点击下面对话框顶端的:arrow_forward:按钮进看答案。
+以下是挑战1的答案，请点击下面对话框顶端的:arrow_forward:按钮查看运行结果。
 <iframe src="https://trinket.io/embed/python/d35a31bb10" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
   
 ### 挑战 2 画一个完美五角星
-五角星的每个角是36度，所以在每个角处，海龟要转向180-36=144度。  
-请补全下面的程序，画出一个完整的五角星。  
-点击下面对话框顶端的:arrow_forward:按钮进行测试。  
-手机用户请点击:pencil:对程序进行修改。  
-<iframe src="https://trinket.io/embed/python/cf36ce533d" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+既然我们学会了画正方形，那么我们可不可以调整折线的角度，来画一个完美的五角星呢？
+<iframe src="https://trinket.io/embed/python/2ff1835bab" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+你的挑战是，请补全上面的程序，画出一个完整的五角星。  
+提示，五角星的每个角是36度，所以在每个角处，海龟要转向180-36=144度。  
+注意，你加入的代码要从14行开始写起。手机用户请点击:pencil:对程序进行修改。点击上面对话框顶端的:arrow_forward:按钮进行测试。 
   
 #### 挑战 2 答案
-请点击下面对话框顶端的:arrow_forward:按钮进看答案。
+以下是挑战2的答案，请点击下面对话框顶端的:arrow_forward:按钮查看运行结果。
 <iframe src="https://trinket.io/embed/python/7b3a5900ce" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
   
 ### 挑战 3 让海龟爬到指定位置
