@@ -74,7 +74,7 @@ description: programming turtorials for beginners
 <iframe src="https://trinket.io/embed/python/ec9649500d" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 **你的挑战是，修改变量设定（第47行到第55行），画出一个你最喜欢的树。**  
 **你要做的是，修改level, ratio, theta1, theta2，length的数值。**  
-比如，level可以改为6或者7， ratio值可以改成0.8或1.1， theta1和theta2的值可以改成10和60或40和40，等等。
+比如，level可以从5改为6或者7， ratio值可以从1.0改成0.8或1.1， theta1和theta2的值可以从20和20改成10和60或40和40，等等。
 注意，手机用户请点击:pencil:对程序进行修改。点击上面对话框顶端的:arrow_forward:按钮进行测试。  
 
 #### [Go back to lesson list](programming.html)
