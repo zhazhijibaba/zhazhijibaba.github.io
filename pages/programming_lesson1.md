@@ -7,7 +7,8 @@ description: programming turtorials for beginners
 ### 挑战 1 画一个正方形
 首先给大家一个具体例子。下面这个例子会画出一个直角。  
 点击下面对话框顶端的:arrow_forward:按钮，程序会自动画出一个直角。  
-你能不能给这个程序加上几行代码，画出一个正方形呢？  
+你能不能接着给这个程序加上几行代码,重复画直角的过程数次，从而画出一个正方形呢？  
+注意，从12行开始写起
 手机用户请点击:pencil:对程序进行修改。  
 <iframe src="https://trinket.io/embed/python/d1cfffd1f8" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
   
