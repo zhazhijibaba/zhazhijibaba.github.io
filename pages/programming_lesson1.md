@@ -69,24 +69,12 @@ description: programming turtorials for beginners
 <iframe src="https://trinket.io/embed/python/3016dbd1b3" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ### 挑战 6 设计一颗自己的树
-修改下面代码的参数，画出不同类型的树。你能画出一颗你最喜欢的树吗？  
-参数包括：树枝的角度，树干的长度，树枝的级数等。  
-需要修改的部分是：
-```python
-# 树干的层数
-level = 5
-# 树干的长度
-length = 15
-# 每层树干的长度比例
-ratio = 0.8
-# 左侧树枝的角度
-theta1 = 20
-# 右侧树枝的角度
-theta2 = 20
-```
-请修改level, length, ratio, theta1, theta2的数值。
-请点击下面对话框顶端的:arrow_forward:按钮进看答案。
-<iframe src="https://trinket.io/embed/python/11c78675fd" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
+挑战5中，我们成功的画出了，有5层树杈的更复杂的树。为了画出更多变化的树，我们在程序中加了更多的变量，包括：树枝的级数，树枝的角度，树干的长度等。  
+我们修改下面程序中的第47行到第55行，就可以设定树的各种变量，从而画出各种不同的树。  
+<iframe src="https://trinket.io/embed/python/ec9649500d" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+**你的挑战是，修改变量设定（第47行到第55行），画出一个你最喜欢的树。**  
+**你要做的是，修改level, ratio, theta1, theta2，length的数值。**  
+比如，level可以改为6或者7， ratio值可以改成0.8或1.1， theta1和theta2的值可以改成10和60或40和40，等等。
+注意，手机用户请点击:pencil:对程序进行修改。点击上面对话框顶端的:arrow_forward:按钮进行测试。  
 
 #### [Go back to lesson list](programming.html)
