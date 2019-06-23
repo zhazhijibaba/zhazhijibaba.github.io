@@ -38,7 +38,8 @@ description: programming turtorials for beginners
 <iframe src="https://trinket.io/embed/python/0c7966eece" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 **你的挑战是，补全套路”initial"（第9行到第17行），让海龟爬到屏幕的下方中央的位置。**  
 **你要做的是：在第13行输入代码”left(90)“。在第15行输入代码”backward(100)“。**  
-注意，手机用户请点击:pencil:对程序进行修改。点击上面对话框顶端的:arrow_forward:按钮进行测试。  
+**注意，每行代码的左端要和前后行对齐。**  
+手机用户请点击:pencil:对程序进行修改。点击上面对话框顶端的:arrow_forward:按钮进行测试。  
   
 #### 挑战 3 答案
 以下是挑战3的答案，请点击下面对话框顶端的:arrow_forward:按钮查看运行结果。  
@@ -50,7 +51,8 @@ description: programming turtorials for beginners
 <iframe src="https://trinket.io/embed/python/89cc28a8fd" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 **你的挑战是，补全套路“drawTree”（第8行到第29行），画出一个Y字形的树杈。**   
 **你要做的是：在第20行输入代码”right(40)“， 在第22行输入代码”forward(60)“， 在第24行输入代码”backward(60)“。**  
-注意，手机用户请点击:pencil:对程序进行修改。点击上面对话框顶端的:arrow_forward:按钮进行测试。  
+**注意，每行代码的左端要和前后行对齐。**  
+手机用户请点击:pencil:对程序进行修改。点击上面对话框顶端的:arrow_forward:按钮进行测试。  
   
 #### 挑战 4 答案
 以下是挑战4的答案，请点击下面对话框顶端的:arrow_forward:按钮查看运行结果。  
@@ -62,7 +64,8 @@ description: programming turtorials for beginners
 <iframe src="https://trinket.io/embed/python/5ea3a3bbb1" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 **你的挑战是，补全新套路“drawTree”（第8行到第26行），画出一个有5层树杈的树。**  
 **你要做的是：在第21行输入代码”right(40)“， 在第22行输入代码”drawTree(level - 1)“。**  
-注意，手机用户请点击:pencil:对程序进行修改。点击上面对话框顶端的:arrow_forward:按钮进行测试。
+**注意，每行代码的左端要和前后行对齐。**  
+手机用户请点击:pencil:对程序进行修改。点击上面对话框顶端的:arrow_forward:按钮进行测试。
   
 #### 挑战 5 答案
 以下是挑战5的答案，请点击下面对话框顶端的:arrow_forward:按钮查看运行结果。  
