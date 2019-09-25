@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Programming Lesson 2 Euler's identity, pi, e
+title: Programming Lesson 2 Euler's identity, pi and e
 description: calculating pi and e in Euler's identity
 ---
 
