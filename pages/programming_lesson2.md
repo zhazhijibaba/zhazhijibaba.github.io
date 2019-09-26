@@ -4,9 +4,9 @@ title: Programming Lesson 2 Euler's identity, pi and e
 description: calculating pi and e in Euler's identity
 ---
 
-### 挑战 1 画一个正方形
-首先给大家一个具体例子。下面这个程序会画出一个直角。  
-点击下面对话框顶端的:arrow_forward:按钮，程序会在电脑屏幕上自动画出一个直角。    
+### 编程计算圆周率
+<img src="https://github.com/zhazhijibaba/zhazhijibaba_programming_lessons/tree/master/programming_lesson2/mc_pi.gif" width="250">
+如上图所示，如果我们随机的在一个正方形内取很多点，一部分点会落在圆内（红色）。如果正方形的边长是2，那么正方形的面积=2X2=4；圆的半径是1，根据圆形面积公式，圆形的面积=。由于红色点的个数比上所有点的个数=圆形的面积比上正方形的面积=/4，因此的数值是4倍的红色点的个数比上所有点的个数。
 <iframe src="https://trinket.io/embed/python/136dee2cf8" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 以上这个程序一共有11行代码。  
 其中以井字符号”#“开头的行（第1、2、3、6、8、10行），是榨汁机的评论，并不是程序的有效代码，计算机并不会执行，所以不起任何作用。  
