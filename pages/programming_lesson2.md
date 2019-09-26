@@ -5,7 +5,7 @@ description: calculating pi and e in Euler's identity
 ---
 
 ### 编程计算圆周率
-<img src="https://github.com/zhazhijibaba/zhazhijibaba_programming_lessons/blob/master/programming_lesson2/mc_pi.gif?raw=true" width="250">
+<img src="https://github.com/zhazhijibaba/zhazhijibaba_programming_lessons/blob/master/programming_lesson2/mc_pi.gif?raw=true" width="250">  
 如上图所示，如果我们随机的在一个正方形内取很多点，一部分点会落在圆内（红色）。如果正方形的边长是2，那么正方形的面积=2X2=4；圆的半径是1，根据圆形面积公式，圆形的面积=。由于红色点的个数比上所有点的个数=圆形的面积比上正方形的面积=/4，因此的数值是4倍的红色点的个数比上所有点的个数。  
 <iframe src="https://trinket.io/embed/python/be790901b9" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 以上这个程序一共有11行代码。  
