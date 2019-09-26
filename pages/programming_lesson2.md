@@ -16,8 +16,17 @@ description: calculating pi and e in Euler's identity
 **注意，你加入的代码要从12行开始写起，每行代码的左端要和前后行对齐。**  
 手机用户请点击:pencil:对程序进行修改。  
 
+随机点越多，计算值越接近真实值
+
+比较计算值和真实值，随着取样点增加的变化。
+
 #### 挑战 1 答案
 以下是挑战1的答案，请点击下面对话框顶端的:arrow_forward:按钮查看运行结果。    
+
+### 编程计算自然常数
+<img src="https://camo.githubusercontent.com/fb5a457c9ce4f4d2d92804c936b6cb4735a99029/68747470733a2f2f6c617465782e636f6465636f67732e636f6d2f7376672e6c617465783f5c4c617267652673706163653b653d5c667261637b317d7b30217d2b5c667261637b317d7b31217d2b5c667261637b317d7b32217d2b5c667261637b317d7b33217d2b5c667261637b317d7b34217d2b5c646f7473" width="250">   
+  
+<iframe src="https://trinket.io/embed/python/9d621cac46" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 
 [查看下载所有python源代码](https://github.com/zhazhijibaba/zhazhijibaba_programming_lessons/tree/master/programming_lesson2)
