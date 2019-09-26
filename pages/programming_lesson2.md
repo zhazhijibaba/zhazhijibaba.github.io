@@ -3,25 +3,22 @@ layout: page
 title: Programming Lesson 2 Euler's identity, pi and e
 description: calculating pi and e in Euler's identity
 ---
+欧拉恒等式（Euler's Identity）被称为世界上最美公式。
+<img src="https://camo.githubusercontent.com/8c5ef6305f4eae9b5385c99daae0e8f894d72936/68747470733a2f2f6c617465782e636f6465636f67732e636f6d2f7376672e6c617465783f5c4c617267652673706163653b655e7b695c70697d2b313d30">
+它最美的地方在于只用一个最简单方程式就链接了5个最基础的数学常数。  
+下面我们就一起编程来计算圆周率和自然常数吧。
 
 ### 编程计算圆周率
 <img src="https://github.com/zhazhijibaba/zhazhijibaba_programming_lessons/blob/master/programming_lesson2/mc_pi.gif?raw=true" width="250">  
 如上图所示，如果我们随机的在一个正方形内取很多点，一部分点会落在圆内（红色）。如果正方形的边长是2，那么正方形的面积=2X2=4；圆的半径是1，根据圆形面积公式，圆形的面积=。由于红色点的个数比上所有点的个数=圆形的面积比上正方形的面积=/4，因此的数值是4倍的红色点的个数比上所有点的个数。  
 <iframe src="https://trinket.io/embed/python/be790901b9" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-以上这个程序一共有11行代码。  
-其中以井字符号”#“开头的行（第1、2、3、6、8、10行），是榨汁机的评论，并不是程序的有效代码，计算机并不会执行，所以不起任何作用。  
-有效代码只有4行  
-第4行是引入画图工具turtle，画画的箭头就是海龟, 第7行是让海龟向前走100个像素，第9行是让海龟向左转90度，第11行是让海龟再向前走100个像素  
-**你的挑战是，给这个程序加上几行代码：重复画直角的过程（第9行和第11行）数次，画出一个正方形。**  
-**注意，你加入的代码要从12行开始写起，每行代码的左端要和前后行对齐。**  
+  
+**你第一个的挑战是，改变程序中控制采样次数的参数N**  
+在网上可以找到pi的精确数值，比如pi=3.1415926535897932384626433  
+比较N=10, N=1000, N=100000时得到的pi的计算值的误差，分析原因。  
+如果用更大的N，是否可以得到更加精确的pi值呢？  
 手机用户请点击:pencil:对程序进行修改。  
-
-随机点越多，计算值越接近真实值
-
-比较计算值和真实值，随着取样点增加的变化。
-
-#### 挑战 1 答案
-以下是挑战1的答案，请点击下面对话框顶端的:arrow_forward:按钮查看运行结果。    
+请点击对话框顶端的:arrow_forward:按钮查看运行结果。      
 
 ### 编程计算自然常数
 <img src="https://camo.githubusercontent.com/fb5a457c9ce4f4d2d92804c936b6cb4735a99029/68747470733a2f2f6c617465782e636f6465636f67732e636f6d2f7376672e6c617465783f5c4c617267652673706163653b653d5c667261637b317d7b30217d2b5c667261637b317d7b31217d2b5c667261637b317d7b32217d2b5c667261637b317d7b33217d2b5c667261637b317d7b34217d2b5c646f7473" width="250">   
