@@ -25,7 +25,7 @@ description: calculating pi and e in Euler's identity
   
 <iframe src="https://trinket.io/embed/python/9d621cac46" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>  
   
-**你第一个的挑战是，改变程序中控制采样次数的参数N**  
+**你第二个的挑战是，改变程序中控制采样次数的参数N**  
 在网上可以找到e的精确数值  
 比如e=2.71828182845904523536028747135266249775724709369995  
 比较N=5, N=10, N=100时得到的e的计算值的误差，分析原因。  
