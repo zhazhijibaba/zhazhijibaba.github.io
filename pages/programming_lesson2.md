@@ -3,8 +3,8 @@ layout: page
 title: Programming Lesson 2 Euler's identity, pi and e
 description: calculating pi and e in Euler's identity
 ---
-欧拉恒等式（Euler's Identity）被称为世界上最美公式。
-<img src="https://camo.githubusercontent.com/8c5ef6305f4eae9b5385c99daae0e8f894d72936/68747470733a2f2f6c617465782e636f6465636f67732e636f6d2f7376672e6c617465783f5c4c617267652673706163653b655e7b695c70697d2b313d30">
+欧拉恒等式（Euler's Identity）被称为世界上最美公式。  
+<img src="https://camo.githubusercontent.com/8c5ef6305f4eae9b5385c99daae0e8f894d72936/68747470733a2f2f6c617465782e636f6465636f67732e636f6d2f7376672e6c617465783f5c4c617267652673706163653b655e7b695c70697d2b313d30">  
 它最美的地方在于只用一个最简单方程式就链接了5个最基础的数学常数。  
 下面我们就一起编程来计算圆周率和自然常数吧。
 
@@ -23,8 +23,15 @@ description: calculating pi and e in Euler's identity
 ### 编程计算自然常数
 <img src="https://camo.githubusercontent.com/fb5a457c9ce4f4d2d92804c936b6cb4735a99029/68747470733a2f2f6c617465782e636f6465636f67732e636f6d2f7376672e6c617465783f5c4c617267652673706163653b653d5c667261637b317d7b30217d2b5c667261637b317d7b31217d2b5c667261637b317d7b32217d2b5c667261637b317d7b33217d2b5c667261637b317d7b34217d2b5c646f7473" width="250">   
   
-<iframe src="https://trinket.io/embed/python/9d621cac46" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
+<iframe src="https://trinket.io/embed/python/9d621cac46" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>  
+  
+**你第一个的挑战是，改变程序中控制采样次数的参数N**  
+在网上可以找到e的精确数值  
+比如e=2.71828182845904523536028747135266249775724709369995  
+比较N=5, N=10, N=100时得到的e的计算值的误差，分析原因。  
+如果用更大的N，是否可以得到更加精确的e值呢？  
+手机用户请点击:pencil:对程序进行修改。  
+请点击对话框顶端的:arrow_forward:按钮查看运行结果。
 
 [查看下载所有python源代码](https://github.com/zhazhijibaba/zhazhijibaba_programming_lessons/tree/master/programming_lesson2)
 
