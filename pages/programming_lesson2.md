@@ -35,12 +35,12 @@ description: calculating pi and e in Euler's identity
 如果用更大的N，是否可以得到更加精确的e值呢？  
 手机用户请点击:pencil:对程序进行修改。  
 
-**思考题**  
-第一，可不可以对挑战一的代码进行优化，使其运行得更快，从而可以对更多的点进行采样从而得到更高的精度。  
-第二，试着运用数学知识来计算圆周率（例如Nilakantha series），并且得到更多的位数（超过计算机数值存储的位数限制）。  
-第三，对挑战二的代码进行优化，使其超过计算机数值存储的位数限制，从而得到小数点后更多位数的e（比如50位小数）。
+### 思考题  
+**第一，可不可以对挑战一的代码进行优化，使其运行得更快，从而可以对更多的点进行采样从而得到更高的精度。**  
+**第二，试着运用数学知识来计算圆周率（例如Nilakantha series），并且得到更多的位数（超过计算机数值存储的位数限制）。**      
+**第三，对挑战二的代码进行优化，使其超过计算机数值存储的位数限制，从而得到小数点后更多位数的e（比如50位小数）。**  
 
-**思考题答案请点击进入下面源代码链接
+#### 思考题答案请点击进入下面源代码链接
 [查看下载所有python源代码](https://github.com/zhazhijibaba/zhazhijibaba_programming_lessons/tree/master/programming_lesson2)
 
 #### [Go back to lesson list](programming.html)
