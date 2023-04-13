@@ -46,4 +46,4 @@ description: calculating pi and e in Euler's identity
 #### 思考题答案请点击进入下面源代码链接
 [查看下载所有python源代码](https://github.com/zhazhijibaba/zhazhijibaba_programming_lessons/tree/master/programming_lesson2)
 
-#### [Go back to lesson list](programming.html)
+#### [Go back to lesson list](../programming.html)
