@@ -34,4 +34,4 @@ The resuling structure model and 3D prints is showed below:
 
 [查看下载所有python源代码](https://github.com/zhazhijibaba/zhazhijibaba_programming_lessons/tree/master/programming_lesson3)
 
-#### [Go back to lesson list](programming.html)
+#### [Go back to lesson list](../programming.html)
