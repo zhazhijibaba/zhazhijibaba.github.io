@@ -82,4 +82,4 @@ description: programming turtorials for beginners
 
 [查看下载所有python源代码](https://github.com/zhazhijibaba/zhazhijibaba_programming_lessons/tree/master/programming_lesson1)
 
-#### [Go back to lesson list](programming.html)
+#### [Go back to lesson list](../programming.html)
