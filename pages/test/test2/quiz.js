@@ -77,7 +77,7 @@
     {
       question: "Who invented JavaScript?",
       answers: {
-        a: "Douglas Crockford",
+        a: "<math><mfrac><mi>1</mi><mi>2</mi></mfrac></math>",
         b: "Sheryl Sandberg",
         c: "Brendan Eich"
       },
