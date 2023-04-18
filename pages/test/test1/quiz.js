@@ -167,7 +167,7 @@
       answers: {
         a: "<math><mfrac><mi>1</mi><mi>6</mi></mfrac></math>",
         b: "<math><mfrac><mi>1</mi><mi>2</mi></mfrac></math>",
-        c: "<math><mfrac><mi>7/mi><mi>12</mi></mfrac></math>",
+        c: "<math><mfrac><mi>7</mi><mi>12</mi></mfrac></math>",
         d: "<math><mfrac><mi>5</mi><mi>6</mi></mfrac></math>",
         e: "<math><mfrac><mi>4</mi><mi>3</mi></mfrac></math>"
       },
