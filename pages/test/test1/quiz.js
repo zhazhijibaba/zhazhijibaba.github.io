@@ -75,32 +75,59 @@
   const submitButton = document.getElementById('submit');
   const myQuestions = [
     {
-      question: "Who invented JavaScript?",
+      question: "Which of the following decimals is the greatest?",
       answers: {
-        a: "Douglas Crockford",
-        b: "Sheryl Sandberg",
-        c: "Brendan Eich"
-      },
-      correctAnswer: "c"
-    },
-    {
-      question: "Which one of these is a JavaScript package manager?",
-      answers: {
-        a: "Node.js",
-        b: "TypeScript",
-        c: "npm"
-      },
-      correctAnswer: "c"
-    },
-    {
-      question: "Which tool can you use to ensure code quality?",
-      answers: {
-        a: "Angular",
-        b: "jQuery",
-        c: "RequireJS",
-        d: "ESLint"
+        a: "1.045",
+        b: "1.456",
+        c: "1.645",
+        d: "1.654",
+        e: "1.065"
       },
       correctAnswer: "d"
+    },
+    {
+      question: "Calculate: 1.1 + 20.3 + 4.97",
+      answers: {
+        a: "7.11",
+        b: "26.37",
+        c: "25.47",
+        d: "8.10",
+        e: "71.1"
+      },
+      correctAnswer: "b"
+    },
+    {
+      question: "What is the value of 2.1 x 1.5 ?",
+      answers: {
+        a: "3150",
+        b: "315",
+        c: "31.5",
+        d: "3.15",
+        e: "0.315"
+      },
+      correctAnswer: "d"
+    },
+    {
+      question: "Compute: <math><mfrac><mi>3</mi><mi>2</mi></mfrac></math> + <math><mfrac><mi>2</mi><mi>5</mi></mfrac></math> - <math><mfrac><mi>1</mi><mi>4</mi></mfrac></math>",
+      answers: {
+        a: "<math><mfrac><mi>1</mi><mi>5</mi></mfrac></math>",
+        b: "<math><mfrac><mi>4</mi><mi>11</mi></mfrac></math>",
+        c: "<math><mfrac><mi>33</mi><mi>20</mi></mfrac></math>",
+        d: "<math><mfrac><mi>27</mi><mi>20</mi></mfrac></math>",
+        e: "<math><mfrac><mi>4</mi><mi>3</mi></mfrac></math>"
+      },
+      correctAnswer: "c"
+    },
+    {
+      question: "What is the value of <math><mfrac><mi>5</mi><mi>3</mi></mfrac> <mo>&divide</mo> <mfrac><mi>3</mi><mi>2</mi></mfrac></math> ?",
+      answers: {
+        a: "<math><mfrac><mi>10</mi><mi>9</mi></mfrac></math>",
+        b: "<math><mfrac><mi>1</mi><mi>10</mi></mfrac></math>",
+        c: "<math><mfrac><mi>9</mi><mi>10</mi></mfrac></math>",
+        d: "<math><mfrac><mi>5</mi><mi>2</mi></mfrac></math>",
+        e: "<math><mfrac><mi>10</mi><mi>1</mi></mfrac></math>"
+      },
+      correctAnswer: "a"
     }
   ];
 
