@@ -95,6 +95,83 @@
         e: "240"
       },
       correctAnswer: "d"
+    },
+    {
+      question: "How many prime numbers are between 1 and 10?",
+      answers: {
+        a: "1",
+        b: "2",
+        c: "3",
+        d: "4",
+        e: "5"
+      },
+      correctAnswer: "d"
+    },
+    {
+      question: "How many prime numbers are between 10 and 20?",
+      answers: {
+        a: "1",
+        b: "2",
+        c: "3",
+        d: "4",
+        e: "5"
+      },
+      correctAnswer: "d"
+    },
+    {
+      question: "How many prime numbers are between 20 and 30?",
+      answers: {
+        a: "1",
+        b: "2",
+        c: "3",
+        d: "4",
+        e: "5"
+      },
+      correctAnswer: "b"
+    },
+    {
+      question: "How many prime numbers are between 30 and 40?",
+      answers: {
+        a: "1",
+        b: "2",
+        c: "3",
+        d: "4",
+        e: "5"
+      },
+      correctAnswer: "b"
+    },
+    {
+      question: "Which of the following is NOT a factor of <math><mi>20</mi><mo>&times</mo><mi>80</mi></math>",
+      answers: {
+        a: "64",
+        b: "25",
+        c: "50",
+        d: "160",
+        e: "120"
+      },
+      correctAnswer: "e"
+    },
+    {
+      question: "Which of the following is NOT a factor of <math><mi>18</mi><mo>&times</mo><mi>30</mi></math>",
+      answers: {
+        a: "27",
+        b: "36",
+        c: "40",
+        d: "54",
+        e: "90"
+      },
+      correctAnswer: "c"
+    },
+    {
+      question: "Which of the following is NOT a factor of <math><mi>30</mi><mo>&times</mo><mi>35</mi></math>",
+      answers: {
+        a: "80",
+        b: "70",
+        c: "75",
+        d: "50",
+        e: "42"
+      },
+      correctAnswer: "a"
     }
   ];
 
