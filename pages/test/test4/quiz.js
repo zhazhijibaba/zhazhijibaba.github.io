@@ -238,7 +238,7 @@
         e: "An increase of 30%"
       },
       correctAnswer: "d"
-    }
+    },
     {
       question: "After changing the number 50 by a certain percent, the result is 40. Which of the following represents this percent change?",
       answers: {
