@@ -150,28 +150,6 @@
         e: "120"
       },
       correctAnswer: "e"
-    },
-    {
-      question: "Which of the following is NOT a factor of <math><mi>18</mi><mo>&times</mo><mi>30</mi></math>",
-      answers: {
-        a: "27",
-        b: "36",
-        c: "40",
-        d: "54",
-        e: "90"
-      },
-      correctAnswer: "c"
-    },
-    {
-      question: "Which of the following is NOT a factor of <math><mi>30</mi><mo>&times</mo><mi>35</mi></math>",
-      answers: {
-        a: "80",
-        b: "70",
-        c: "75",
-        d: "50",
-        e: "42"
-      },
-      correctAnswer: "a"
     }
   ];
 
