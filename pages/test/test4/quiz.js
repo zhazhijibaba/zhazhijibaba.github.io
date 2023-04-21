@@ -139,17 +139,6 @@
         e: "5"
       },
       correctAnswer: "b"
-    },
-    {
-      question: "Which of the following is NOT a factor of <math><mi>20</mi><mo>&times</mo><mi>80</mi></math>",
-      answers: {
-        a: "64",
-        b: "25",
-        c: "50",
-        d: "160",
-        e: "120"
-      },
-      correctAnswer: "e"
     }
   ];
 
