@@ -227,7 +227,7 @@
         e: "An increase of 400%"
       },
       correctAnswer: "c"
-    }
+    },
     {
       question: "After changing the number 40 by a certain percent, the result is 50. Which of the following represents this percent change?",
       answers: {
