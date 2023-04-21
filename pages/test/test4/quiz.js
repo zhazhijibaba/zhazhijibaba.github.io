@@ -84,6 +84,39 @@
         e: "840"
       },
       correctAnswer: "c"
+    },
+    {
+      question: "Which of the following is the least common multiple of 8, 15 and 30?",
+      answers: {
+        a: "8",
+        b: "30",
+        c: "60",
+        d: "120",
+        e: "240"
+      },
+      correctAnswer: "d"
+    },
+    {
+      question: "Which of the following is the least common multiple of 60 and 70?",
+      answers: {
+        a: "60",
+        b: "210",
+        c: "420",
+        d: "630",
+        e: "840"
+      },
+      correctAnswer: "c"
+    },
+    {
+      question: "Which of the following is the least common multiple of 8, 15 and 30?",
+      answers: {
+        a: "8",
+        b: "30",
+        c: "60",
+        d: "120",
+        e: "240"
+      },
+      correctAnswer: "d"
     }
   ];
 
