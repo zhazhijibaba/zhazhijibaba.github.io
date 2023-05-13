@@ -85,58 +85,90 @@
 	var ctx = c.getContext("2d");
 
 	ctx.beginPath();
-	ctx.moveTo(200, 100);
-	ctx.lineTo(50, 250);
-	ctx.moveTo(200, 100);
-	ctx.lineTo(350, 250);
-	ctx.moveTo(50, 250);
-	ctx.lineTo(350, 250);
-	ctx.moveTo(190, 110);
-	ctx.lineTo(200, 120);
-	ctx.moveTo(200, 120);
-	ctx.lineTo(210, 110);
+	ctx.moveTo(50, 100);
+	ctx.lineTo(50, 280);
+	ctx.moveTo(50, 100);
+	ctx.lineTo(410, 280);
+	ctx.moveTo(50, 280);
+	ctx.lineTo(410, 280);
+	ctx.moveTo(50, 220);
+	ctx.lineTo(290, 220);
+
+	ctx.moveTo(50, 210);
+	ctx.lineTo(60, 210);
+	ctx.moveTo(60, 210);
+	ctx.lineTo(60, 220);
+
+	ctx.moveTo(50, 270);
+	ctx.lineTo(60, 270);
+	ctx.moveTo(60, 270);
+	ctx.lineTo(60, 280);
 	ctx.stroke();
 
 	ctx.beginPath();
 	ctx.font = "25px Arial";
-	ctx.fillText("A", 190, 90);
-	ctx.fillText("B", 25, 260);
-	ctx.fillText("C", 355, 260);
+	ctx.fillText("A", 50, 90);
+	ctx.fillText("B", 25, 290);
+	ctx.fillText("C", 420, 290);
+	ctx.fillText("D", 25, 220);
+	ctx.fillText("E", 295, 220);
 	ctx.stroke();
 
 
 	ctx.beginPath();
 	ctx.font = "25px Arial";
-	ctx.fillText("Figure 1.", 160, 350);
+	ctx.fillText("Figure 3.", 160, 450);
 	ctx.stroke();
   } 
 
-  const figureContainer = document.getElementById('figure1');
-  const quizContainer = document.getElementById('quiz1');
-  const resultsContainer = document.getElementById('results1');
-  const submitButton = document.getElementById('submit1');
+  const figureContainer = document.getElementById('figure3');
+  const quizContainer = document.getElementById('quiz3');
+  const resultsContainer = document.getElementById('results3');
+  const submitButton = document.getElementById('submit3');
   const myQuestions = [
     {
-      question: "In the right triangle ABC, if angle A is 90 degree, AB = AC, what is the value of angle B",
-      answers: {
-        a: "180",
-        b: "90",
-        c: "60",
-        d: "45",
-        e: "30"
-      },
-      correctAnswer: "d"
-    }
-    {
-      question: "In the right triangle ABC, if angle A is 90 degree, AB = AC, what is the value of angle C",
+      question: "In right triangle ABC and right triangle ADE, the angle ADE = 90&deg; and the angle ABC = 90&deg;. if the angle AED = 40&deg;, what is the value of angle BAC in degree?",
       answers: {
         a: "30",
-        b: "45",
-        c: "60",
-        d: "90",
-        e: "180"
+        b: "40",
+        c: "50",
+        d: "60",
+        e: "90"
       },
       correctAnswer: "c"
+    },
+    {
+      question: "In right triangle ABC and right triangle ADE, the angle ADE = 90&deg; and the angle ABC = 90&deg;. if AD = 5, DB = 2 and BC = 42, what is the length of DE?",
+      answers: {
+        a: "30",
+        b: "35",
+        c: "40",
+        d: "42",
+        e: "49"
+      },
+      correctAnswer: "a"
+    },
+    {
+      question: "In right triangle ABC and right triangle ADE, the angle ADE = 90&deg; and the angle ABC = 90&deg;. if AD = 9, DB = 2 and AC = 121, what is the length of EC?",
+      answers: {
+        a: "11",
+        b: "22",
+        c: "33",
+        d: "45",
+        e: "54"
+      },
+      correctAnswer: "b"
+    },
+    {
+      question: "In right triangle ABC and right triangle ADE, the angle ADE = 90&deg; and the angle ABC = 90&deg;. if AC = 50, EC = 20, AB = 30 and BC = 40, what is the area of triangle ADE?",
+      answers: {
+        a: "1200",
+        b: "600",
+        c: "800",
+        d: "216",
+        e: "432"
+      },
+      correctAnswer: "d"
     }
   ];
  
